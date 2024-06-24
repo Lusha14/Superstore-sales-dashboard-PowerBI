@@ -15,26 +15,32 @@ Objectives can be broken down into:
 
 Utilized Power Query Editor for effective data cleaning and transformation.
 Streamlined data processing workflows to ensure accurate and timely insights.
+
 2.Custom Measures and Calculations 📊
 
 Created custom measures to uncover hidden patterns in the sales data.
 Leveraged DAX (Data Analysis Expressions) for advanced calculations and metrics.
+
 3.Visually Stunning Charts and Maps 📈
 
 Designed visually appealing charts and maps to bring the data to life.
 Employed various visualization techniques to highlight key insights.
+
 4.Intuitive Filters and Slicers 🔍
 
 Integrated filters and slicers for easy data exploration.
 Enabled users to drill down into specific data points effortlessly.
+
 5.Zoom Capabilities 🔎
 
 Added zoom functionalities for a closer look at the details.
 Enhanced user experience by allowing in-depth analysis of the visualizations.
+
 6.Beautifully Designed Dashboard 🎨
 
 Focused on creating a user-friendly and aesthetically pleasing dashboard.
 Ensured a seamless and engaging user experience.
+
 7.Forecasting Tools 🔮
 
 Implemented forecasting tools to predict future sales trends.
